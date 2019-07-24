@@ -1,11 +1,16 @@
 _repo: England-and-the-Orleans-Monarchy_59961
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59961-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Hall, John A.
     gutenberg_agent_id: '41022'
     url: http://www.gutenberg.org/2009/agents/41022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59961#England-and-the-Orleans-Monarchy
 gutenberg_issued: '2019-07-21'
 gutenberg_type: Text
 identifiers:
